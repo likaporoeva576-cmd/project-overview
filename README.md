@@ -94,9 +94,39 @@ Tech stack:
 Status:
 In progress / description will be updated.
 
+### DeepHireHRBot
+
+An HR and recruiting assistant project for working with candidates, vacancies,
+and hiring flows.
+
+What it does:
+- presents vacancies and hiring directions;
+- helps structure candidate communication;
+- supports HR and recruiting workflows;
+- can be used as a first contact point for candidates;
+- includes pages for roles, industries, cases, and contacts;
+- keeps the public candidate-facing layer separate from private internal logic.
+
+Tech stack:
+- HTML;
+- CSS;
+- JavaScript;
+- static website structure;
+- Telegram bot concept / HR assistant flow.
+
+My work:
+- project structure;
+- candidate-facing pages;
+- vacancy and role pages;
+- content logic;
+- public presentation layer;
+- preparation for HR automation.
+
+Status:
+Private source code. Public description only.
+
 ## Why the code is private
 
 These projects may include private integrations, internal logic, deployment
 configuration, and sensitive business details. For that reason, this repository
 shows only the high-level project description.
-
