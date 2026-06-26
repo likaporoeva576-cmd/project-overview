@@ -96,34 +96,32 @@ In progress / description will be updated.
 
 ### DeepHireHRBot
 
-An HR and recruiting assistant project for working with candidates, vacancies,
-and hiring flows.
+A small experimental Telegram bot with GPT-mini 3.0 connected.
+
+The project is not a commercial freelance project yet. It is currently a
+personal side project that I work on in my free time for close friends.
 
 What it does:
-- presents vacancies and hiring directions;
-- helps structure candidate communication;
-- supports HR and recruiting workflows;
-- can be used as a first contact point for candidates;
-- includes pages for roles, industries, cases, and contacts;
-- keeps the public candidate-facing layer separate from private internal logic.
+- can talk about simple everyday topics;
+- answers basic questions;
+- can keep a light conversation;
+- is used as a test project for AI bot behavior;
+- helps me practice Telegram bot logic and GPT integration.
 
 Tech stack:
-- HTML;
-- CSS;
 - JavaScript;
-- static website structure;
-- Telegram bot concept / HR assistant flow.
+- Telegram bot;
+- GPT-mini 3.0 integration.
 
 My work:
-- project structure;
-- candidate-facing pages;
-- vacancy and role pages;
-- content logic;
-- public presentation layer;
-- preparation for HR automation.
+- bot setup;
+- GPT connection;
+- conversation logic;
+- project testing;
+- small improvements when I have free time.
 
 Status:
-Private source code. Public description only.
+Private source code. Public description only. Work in progress.
 
 ## Why the code is private
 
