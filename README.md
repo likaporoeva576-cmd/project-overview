@@ -123,6 +123,65 @@ My work:
 Status:
 Private source code. Public description only. Work in progress.
 
+### DeepHire HTML presentation website
+
+A static HTML website / presentation project for DeepHire.
+
+What it includes:
+- main landing page;
+- service pages;
+- vacancy and role pages;
+- cases section;
+- contact page;
+- public offer page;
+- privacy policy and terms pages;
+- sections for hiring directions and industries.
+
+Tech stack:
+- HTML;
+- CSS;
+- JavaScript;
+- static website structure;
+- Netlify deployment configuration.
+
+My work:
+- page structure;
+- public presentation logic;
+- service and vacancy pages;
+- content blocks;
+- basic frontend layout;
+- preparation for publication.
+
+Status:
+Private source code. Public description only. Work in progress.
+
+### Recruiting plugin / HR automation concept
+
+A concept for a small recruiting plugin or microservice for HR automation.
+
+What it can help with:
+- first candidate contact;
+- simple candidate questions;
+- collecting basic information;
+- routing candidates to the right next step;
+- supporting recruiters with repetitive actions;
+- connecting AI assistant logic to HR workflows.
+
+Tech stack:
+- JavaScript;
+- Telegram bot / web integration concept;
+- AI assistant logic;
+- lightweight frontend or plugin structure.
+
+My work:
+- idea and workflow structure;
+- first project notes;
+- candidate communication scenarios;
+- simple automation logic.
+
+Status:
+Concept / early work. Private source code or notes. Public description only.
+
 ## Why the code is private
 
 These projects may include private integrations, internal logic, deployment
